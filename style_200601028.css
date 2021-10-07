@@ -1,0 +1,101 @@
+html 
+{
+font-family: "Lucida Console", "Courier New", monospace;
+background-color:lightgray;
+}
+
+input[type="text"]
+{
+padding: 20;
+display: flex ;
+justify-content: flex-start;
+position: relative;
+left: 0;
+outline: none;
+width: 300px;
+height: auto;
+margin-right: -4px;
+margin: auto;
+text-align: center;
+
+}
+
+input[type="button"] 
+{
+color: green;
+font-family: "Lucida Console", "Courier New", monospace;
+text-align: center;
+font-size:20px;
+display: flex ;
+justify-content: flex-start;
+position: relative;
+left: 0;
+outline: none;
+width: 300px;
+height: auto;
+margin-right: -4px;
+margin: auto;
+}
+
+.myStyle
+{
+padding: 20;
+display: flex ;
+justify-content: flex-start;
+position: relative;
+left: 0;
+outline: none;
+width: 300px;
+height: auto;
+margin-right: -4px;
+margin: auto;
+text-align: center;
+}
+
+.sonucStil
+{
+padding: 20;
+display: flex ;
+justify-content: flex-start;
+position: relative;
+left: 150px;
+right: -400px;
+outline: none;
+width: 300px;
+height: auto;
+margin-right: 300px;
+margin: auto;
+top: 5px
+}
+
+.sonucyaziStil
+{
+padding: 20;
+display: flex ;
+justify-content: flex-start;
+position: relative;
+left: 0;
+outline: none;
+width: 300px;
+height: auto;
+margin-right: -4px;
+margin: auto;
+text-align: center;
+top: 35px;
+}
+
+.myStyle1
+{
+padding: 20;
+display: flex ;
+justify-content: flex-start;
+position: relative;
+outline: none;
+width: 300px;
+height: auto;
+margin-right: -4px;
+margin: auto;
+text-align: center;
+left: -75px;
+top: 18px;
+}
